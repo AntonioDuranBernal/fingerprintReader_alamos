@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\alamos-Backend.props" />
+</Project>
